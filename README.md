@@ -1,9 +1,6 @@
 # Design For Social Innovation Project
 
 ## NGO: Choice Foundation  
-**Group:** 1  
-
-[Presentation + Video Demo Link | OneDrive](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/prithvi_karthik_students_iiit_ac_in/Er3T3tpZgkpFnVNvZIMJRPABPqzakZ9y2IpiyKPHVva4xg?e=qKzoEC)  
 
 ## Installation  
 
